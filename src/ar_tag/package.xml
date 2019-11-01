@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ar_tag</name>
+  <version>0.0.0</version>
+  <description>The at_tag package</description>
+
+  <maintainer email="ybcho@xycar.co.kr">ybcho</maintainer>
+
+  <license>Apache 2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

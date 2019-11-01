@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>patrolbot</name>
+  <version>0.0.0</version>
+  <description>The patrolbot package</description>
+
+  <maintainer email="kangsseok27@github.com">ks</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+
+  <exec_depend>amcl</exec_depend>
+  <exec_depend>map_server</exec_depend>
+  <exec_depend>move_base</exec_depend>
+  <exec_depend>turtlebot3_bringup</exec_depend>
+
+  <export>
+
+  </export>
+</package>
